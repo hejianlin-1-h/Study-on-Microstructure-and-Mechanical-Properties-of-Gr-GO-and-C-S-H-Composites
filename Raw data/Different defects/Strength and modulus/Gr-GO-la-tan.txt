@@ -1,0 +1,5 @@
+         Tensile strength      Young's modulus             Tensile strength   Young's modulus                    Tensile strength  Young's modulus                         Tensile strength        Young's modulus
+   Gr         2.113                41.327                 GO-O           2.343             44.622                      GO-OH          2.512             48.67                 GO-COOH            2.598                        46.226
+ Gr-SV     2.018                41.403                GO-O-SV       2.241             43.668                     GO-OH-SV      2.587            46.419             GO-COOH-SV          2.607                        45.466
+ Gr-DV     2.053                41.172               GO-O-DV       2.205             44.579                    GO-OH-DV       2.561            46.285            GO-COOH-DV          2.62                          42.974
+ Gr-SW    2.018                43.444              GO-O-SW        2.265             45.17                     GO-OH-SW       2.531            47.055            GO-COOH-SW          2.616                        44.194
