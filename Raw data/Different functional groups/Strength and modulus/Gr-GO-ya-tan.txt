@@ -1,6 +1,0 @@
-           Compressive strength       Young's modulus
-Without Gr(GO)	3.58417	              31.645
-Gr	            3.95289	              49.79504
-GO-O	        4.26481            	  52.73455
-GO-OH	        4.57512	              54.96981
-GO-COOH	        4.79308	              53.20621
