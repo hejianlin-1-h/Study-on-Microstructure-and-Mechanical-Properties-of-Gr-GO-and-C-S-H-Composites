@@ -1,4 +1,4 @@
-        GO-COOH GO-COOH-GO-COOH-GO-COOH-SW
+        GO-COOH GO-COOH-SV GO-COOH-DV GO-COOH-SW
    0       0       0       0       0
  0.0375    0       0       0       0
  0.1125    0       0       0       0

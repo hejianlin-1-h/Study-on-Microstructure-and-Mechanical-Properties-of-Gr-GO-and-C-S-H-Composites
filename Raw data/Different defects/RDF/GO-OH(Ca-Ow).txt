@@ -1,4 +1,4 @@
-         GO-OH  GO-OH-SVGO-OH-DVGO-OH-SW
+         GO-OH  GO-OH-SV GO-OH-DV GO-OH-SW
    0       0       0       0       0
  0.0375    0       0       0       0
  0.1125    0       0       0       0
