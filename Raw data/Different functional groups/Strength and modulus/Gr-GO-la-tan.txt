@@ -1,0 +1,6 @@
+             Tensile strength   Young's modulus
+Without Gr(GO)	1.52542            27.1679
+Gr	            2.1123	           41.32661
+GO-O	        2.34273	           44.62201
+GO-OH	        2.51242	           48.66992
+GO-COOH	        2.59777	           46.22561
